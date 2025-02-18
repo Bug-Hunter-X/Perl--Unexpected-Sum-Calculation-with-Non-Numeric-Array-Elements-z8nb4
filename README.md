@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Perl when dealing with array summation. The `bug.pl` file contains the erroneous code that fails to handle non-numeric data gracefully.  The `bugSolution.pl` file offers a corrected version that robustly handles various data types within the array.
